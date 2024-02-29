@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CrimxonGuillermo
-- 👀 I’m interested in men
-- 🌱 I’m currently learning about men
-- 💞️ I’m looking to collaborate on men
-- 📫 How to reach me be a man
-- 😄 Pronouns: man/man
-- ⚡ Fun fact: men
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning about generative ai
+- 💞️ I’m looking to collaborate on coding projects
+- 📫 How to reach me call me
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Go Seahawks
 
 <!---
 CrimxonGuillermo/CrimxonGuillermo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
